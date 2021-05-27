@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "nombre": "Juan",
+        "email": "juan@empleo.com",
+        "puesto": "Contador",
+        "fecha_nac": "05/06/1990",
+        "domicilio": 
+            { "calle":"juarez","estado":"mexico","cp":50000}
+        ,
+        "habilidades":[
+            "trabajo",
+            "liderazgo"
+        ]
+    },
+    {
+        "id":2,
+        "nombre": "Juan",
+        "email": "juan@empleo.com",
+        "puesto": "Contador",
+        "fecha_nac": "05/06/1990",
+        "domicilio": 
+            { "calle":"juarez","estado":"mexico","cp":50250}
+        ,
+        "habilidades":[
+            "trabajo",
+            "liderazgo"
+        ]
+    }
+]
