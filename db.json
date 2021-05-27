@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "nombre": "Maria",
+      "email": "maria@ejemplo.com",
+      "puesto": "Licenciada",
+      "fecha_nac": "18/02/1995",
+      "domicilio": {
+        "calle": "bolivar",
+        "estado": "oaxaca",
+        "cp": 500245
+      },
+      "habilidades": [
+        "optimista",
+        "liderazgo"
+      ]
+    },
+    {
+      "nombre": "Maria",
+      "email": "maria@ejemplo.com",
+      "puesto": "Licenciada",
+      "fecha_nac": "18/02/1995",
+      "domicilio": {
+        "calle": "bolivar",
+        "estado": "oaxaca",
+        "cp": 500245
+      },
+      "habilidades": [
+        "optimista",
+        "liderazgo"
+      ]
+    },
+    {
+      "nombre": "Maria",
+      "email": "maria@ejemplo.com",
+      "puesto": "Licenciada",
+      "fecha_nac": "18/02/1995",
+      "domicilio": {
+        "calle": "bolivar",
+        "estado": "oaxaca",
+        "cp": 500245
+      },
+      "habilidades": [
+        "optimista",
+        "liderazgo"
+      ]
+    },
+    {
+      "id": "7bf81ba1-2e82-4e4a-af87-684769f680d6",
+      "nombre": "Maria",
+      "email": "maria@ejemplo.com",
+      "puesto": "Licenciada",
+      "fecha_nac": "18/02/1995",
+      "domicilio": {
+        "calle": "bolivar",
+        "estado": "oaxaca",
+        "cp": 500245
+      },
+      "habilidades": [
+        "optimista",
+        "liderazgo"
+      ]
+    },
+    {
+      "id": "5ab3e092-7949-42e8-8308-830459514d0a",
+      "nombre": "Maria",
+      "email": "maria@ejemplo.com",
+      "puesto": "Licenciada",
+      "fecha_nac": "18/02/1995",
+      "domicilio": {
+        "calle": "bolivar",
+        "estado": "oaxaca",
+        "cp": 500245
+      },
+      "habilidades": [
+        "optimista",
+        "liderazgo"
+      ]
+    }
+  ]
+}

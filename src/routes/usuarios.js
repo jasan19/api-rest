@@ -1,12 +1,12 @@
 const { Router } = require('express');
 const router = Router();
 
-const usuarios = require('../example.json');
+//const usuarios = require('../example.json');
 
-
-router.get('/',(req,res) => {
-    res.json(usuarios);
-});
+const { getUsers, createUsers, getUser} = require('../controllers/user.controller');
+router.get('/usuarios',getUsers);
+router.get('/usuarios/:id',getUser);
+router.post('/usuarios',createUsers);
 
 router.post('/',(req,res) => {
     const { nombre, email, puesto,fecha_nac} = req.body;
