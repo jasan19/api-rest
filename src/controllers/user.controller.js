@@ -15,9 +15,10 @@ const getUser = (req,res) => {
 
 const createUsers = (req,res) => {
     usuarios =  getConnection().get('users');
-    const { nombre, email, puesto,fecha_nac} = req.body;
-    
-    if(nombre && email && puesto && fecha_nac){
+    const { nombre, email, puesto,birthday} = req.body;
+    console.log(req.body);
+    if(nombre && email && puesto && birthday){
+        console.log(req.body);
         const id =  v4();
         const newUsuario = {id,...req.body};
         

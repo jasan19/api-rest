@@ -1,80 +1,116 @@
 {
   "users": [
     {
-      "nombre": "Maria",
-      "email": "maria@ejemplo.com",
-      "puesto": "Licenciada",
-      "fecha_nac": "18/02/1995",
-      "domicilio": {
-        "calle": "bolivar",
-        "estado": "oaxaca",
-        "cp": 500245
-      },
-      "habilidades": [
-        "optimista",
-        "liderazgo"
-      ]
-    },
-    {
-      "nombre": "Maria",
-      "email": "maria@ejemplo.com",
-      "puesto": "Licenciada",
-      "fecha_nac": "18/02/1995",
-      "domicilio": {
-        "calle": "bolivar",
-        "estado": "oaxaca",
-        "cp": 500245
-      },
-      "habilidades": [
-        "optimista",
-        "liderazgo"
-      ]
-    },
-    {
-      "nombre": "Maria",
-      "email": "maria@ejemplo.com",
-      "puesto": "Licenciada",
-      "fecha_nac": "18/02/1995",
-      "domicilio": {
-        "calle": "bolivar",
-        "estado": "oaxaca",
-        "cp": 500245
-      },
-      "habilidades": [
-        "optimista",
-        "liderazgo"
-      ]
-    },
-    {
-      "id": "7bf81ba1-2e82-4e4a-af87-684769f680d6",
-      "nombre": "Maria",
-      "email": "maria@ejemplo.com",
-      "puesto": "Licenciada",
-      "fecha_nac": "18/02/1995",
-      "domicilio": {
-        "calle": "bolivar",
-        "estado": "oaxaca",
-        "cp": 500245
-      },
-      "habilidades": [
-        "optimista",
-        "liderazgo"
-      ]
-    },
-    {
       "id": "5ab3e092-7949-42e8-8308-830459514d0a",
-      "nombre": "Maria",
-      "email": "maria@ejemplo.com",
+      "nombre": "Maria Hernández",
+      "email": "maria@gmail.com",
       "puesto": "Licenciada",
-      "fecha_nac": "18/02/1995",
+      "birthday": "18/02/1995",
       "domicilio": {
-        "calle": "bolivar",
-        "estado": "oaxaca",
-        "cp": 500245
+        "ciudad": "Tenancingo",
+        "estado": "Querétaro",
+        "cp": 501300
       },
       "habilidades": [
         "optimista",
         "liderazgo"
+      ]
+    },
+    {
+      "id": "5ab3e042-7949-42a8-8308-830459514d0a",
+      "nombre": "Juan Carrillo",
+      "email": "juan@windows.com",
+      "puesto": "Contador",
+      "birthday": "25/01/2001",
+      "domicilio": {
+        "ciudad": "México",
+        "estado": "México",
+        "cp": 500245
+      },
+      "habilidades": [
+        "Flexibilidad",
+        "Confianza"
+      ]
+    },
+    {
+      "id": "5ab3e042-7824-42a8-8308-830459514d0a",
+      "nombre": "Guadalupe Jiménez",
+      "email": "lupita@yahoo.com",
+      "puesto": "Psicóloga",
+      "birthday": "05/06/1990",
+      "domicilio": {
+        "ciudad": "Nuevo León",
+        "estado": "Monterrey",
+        "cp": 500245
+      },
+      "habilidades": [
+        "Honradez",
+        "Carisma"
+      ]
+    },
+    {
+      "id": "5acfe042-7949-42a8-1248-831559514d0a",
+      "nombre": "Emilio Zapata",
+      "email": "emilio@hotmail.com",
+      "puesto": "Diseñador",
+      "birthday": "05/10/1998",
+      "domicilio": {
+        "ciudad": "Zapopan",
+        "estado": "Jalisco",
+        "cp": 68000
+      },
+      "habilidades": [
+        "Amabilidad",
+        "Confianza"
+      ]
+    },
+    {
+      "id": "97d6bf4a-a6bb-4063-abe7-68cec5ad83e2",
+      "nombre": "maria",
+      "email": "maria@conl.com",
+      "puesto": "lider",
+      "birhtday": "2021-05-12",
+      "domicilio": {
+        "ciudad": "zina",
+        "estado": "Colima",
+        "cp": "50000"
+      },
+      "habilidades": [
+        " honesta",
+        " lider",
+        " lider",
+        " lider"
+      ]
+    },
+    {
+      "id": "4742fc1b-dd97-4c18-a47a-380e1b654184",
+      "nombre": "luis Miguel",
+      "email": "luis@hotmail.com",
+      "puesto": "Vendedor",
+      "birthday": "2000-05-10",
+      "domicilio": {
+        "ciudad": "Tulancingo",
+        "estado": "Guanajuato",
+        "cp": "43110"
+      },
+      "habilidades": [
+        " Audaz",
+        " Tenaz"
+      ]
+    },
+    {
+      "id": "e3d921b0-46dc-4350-970d-7c03f1991c6d",
+      "nombre": "james",
+      "email": "james@yahoo.com",
+      "puesto": "Arquitecto",
+      "birthday": "1998-06-19",
+      "domicilio": {
+        "ciudad": "Durango",
+        "estado": "Ciudad de México",
+        "cp": "51132"
+      },
+      "habilidades": [
+        " Responsable"
       ]
     }
   ]
